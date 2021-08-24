@@ -2,7 +2,7 @@
 
 A series of book reviews written by me, on books I have read.
 
-Now I just need to make a convolutional neural network to translate this into latex code. :)
+Now I just need to make a convolutional neural network to translate my messing handwriting into latex code. :)
 
 Book Reviews Are as follows:
 
