@@ -6,7 +6,7 @@ Now I just need to make a convolutional neural network to translate my messing h
 
 Book Reviews Are as follows:
 
-Make it Stick: The Science of Successful Learning
+Make it Stick: The Science of Successful Learning - Henry L. Roediger III, Mark A. McDaniel, and Peter C Brown
 
 Breath: The New Science of a Lost Art - James Nestor
 
