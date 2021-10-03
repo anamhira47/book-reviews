@@ -6,6 +6,9 @@ Now I just need to make a convolutional neural network to translate my messing h
 
 Book Reviews Are as follows:
 
+
+Why Zebras Don't Get Ulcers - Robert Sapolsky
+
 Make it Stick: The Science of Successful Learning - Henry L. Roediger III, Mark A. McDaniel, and Peter C Brown
 
 Breath: The New Science of a Lost Art - James Nestor
